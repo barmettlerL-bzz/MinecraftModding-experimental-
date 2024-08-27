@@ -7,5 +7,7 @@
   "ingredient": {
     "item": "testmod:raw_sapphire"
   },
-  "result": "testmod:sapphire"
+  "result": {
+    "id": "testmod:sapphire"
+  }
 }

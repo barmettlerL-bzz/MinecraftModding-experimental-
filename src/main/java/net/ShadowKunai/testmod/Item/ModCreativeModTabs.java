@@ -1,12 +1,11 @@
 package net.ShadowKunai.testmod.Item;
 
 import net.ShadowKunai.testmod.TestMod;
+import net.ShadowKunai.testmod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
-import net.ShadowKunai.testmod.Item.ModItems;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
@@ -23,7 +22,7 @@ public static final RegistryObject<CreativeModeTab> TUTORIAL_TAB = CREATIVE_MODE
                     pOutput.accept(ModItems.SAPPHIRE.get());
                     pOutput.accept(ModItems.RAW_SAPPHIRE.get());
 
-                    pOutput.accept(Items.DIAMOND);
+                    pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                 })
                 .build());
 

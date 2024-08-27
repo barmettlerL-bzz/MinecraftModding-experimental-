@@ -2,5 +2,8 @@
   "item.testmod.sapphire":"Sapphire",
   "item.testmod.raw_sapphire":"Raw Sapphire",
 
-  "creativetab.tutorial_tab": "Sapphire Tutorial (Tab)"
+  "block.testmod.sapphire_block": "Block of Sapphire",
+
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
 }

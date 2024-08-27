@@ -1,6 +1,10 @@
 {
   "values": [
     "testmod:sapphire_block",
-    "testmod:raw_sapphire_block"
+    "testmod:raw_sapphire_block",
+    "testmod:sapphire_ore",
+    "testmod:nether_sapphire_ore",
+    "testmod:deepslate_sapphire_ore",
+    "testmod:end_stone_sapphire_ore"
   ]
 }

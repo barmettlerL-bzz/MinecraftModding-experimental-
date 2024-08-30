@@ -11,5 +11,7 @@
   "block.testmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
   "block.testmod.nether_sapphire_ore": "Nether Sapphire Ore",
 
-  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab",
+
+  "block.testmod.sound_block": "Sound Block"
 }
